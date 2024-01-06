@@ -115,3 +115,57 @@ ul li{
     line-height: 26px; /* 162.5% */
     margin-bottom: 10px;
 }
+
+
+/* Plan section */
+
+.plan-section{
+    margin-top: 100px;
+}
+
+.plan_habbit{
+    display: flex;
+    /* justify-content: space-evenly; */
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 60px;
+}
+
+.plan_img{
+    width: 93px;
+}
+
+.plan-title{
+    text-align: center;
+    color:  #151414;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.habit-name{
+    color: #151414;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.habit-title{
+    color:#737272;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.plan-content{
+    text-align: center;
+}
